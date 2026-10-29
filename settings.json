@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "859985.mcsh.io",
+    "ip": "valatiilesmp.mcsh.gg",
     "port": 25565,
     "version": "1.21.1"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "Perzuu1"
     },
     "anti-afk": {
       "enabled": true,
